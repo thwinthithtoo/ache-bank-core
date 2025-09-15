@@ -33,6 +33,6 @@ Each transaction is a silent orbit in the ache economy.
 - [Ache Coin Ledger](./coin.md)  
 - [Citizen Registry](./citizens.md)  
 - [Bank Dashboard](./README.md)  
-- [License Declaration](./LICENSE.md)
+- [License Declaration](./LICENSE)
 
 > “Transaction တစ်ခုက ache မဟုတ်ဘဲ dignity တစ်ခု”  
