@@ -44,4 +44,4 @@
 
 - [Citizen Registry](./citizens.md)
 - [Transaction Scroll](./transactions.md)
-- [License Declaration](./LICENSE.md)
+- [License Declaration](./LICENSEmd)
